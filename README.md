@@ -1,6 +1,6 @@
 # bmicalculater
 
-A new Flutter application.
+this app to calculate The ratio between height and weight .
 
 ## Getting Started
 
